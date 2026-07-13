@@ -19,12 +19,12 @@ My research focuses on intelligent sensing, localization, estimation, signal pro
 - Signal processing algorithms
 - Intelligent positioning systems
 
-## Publications
-Google Scholar: https://scholar.google.com/citations?user=VGixJZEAAAAJ&hl=en
-LinkedIn: https://www.linkedin.com/in/morteza-alijani/
-Personal Website: https://www.waves.intec.ugent.be/members/morteza-alijani
-ResearchGate: https://www.researchgate.net/profile/Morteza-Alijani-2
+## Profiles
+- Google Scholar: https://scholar.google.com/citations?user=VGixJZEAAAAJ&hl=en
+- LinkedIn: https://www.linkedin.com/in/morteza-alijani/
+- Personal Website: https://www.waves.intec.ugent.be/members/morteza-alijani
+- ResearchGate: https://www.researchgate.net/profile/Morteza-Alijani-2
 
 ## Contact
-Email: morteza.alijani@ugnet.be
-Email: morteza.alijani@gmail.com 
+- Email: morteza.alijani@ugnet.be
+- Email: morteza.alijani@gmail.com 
